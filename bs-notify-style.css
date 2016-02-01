@@ -1,0 +1,25 @@
+#__bs_notify__ {
+  
+  /* Move to bottom */
+  top: auto !important;
+  bottom: 0 !important;
+  border-top-left-radius: 5px !important; 
+  border-bottom-left-radius: 0 !important;
+  
+  /* Original inline styles reference: */
+  /* 
+  display: block; 
+  padding: 15px; 
+  font-family: sans-serif; 
+  position: fixed; 
+  font-size: 0.9em; 
+  z-index: 9999; 
+  right: 0px; 
+  top: 0px; 
+  border-bottom-left-radius: 5px; 
+  margin: 0px; 
+  color: white; 
+  text-align: center; 
+  background-color: rgb(27, 32, 50);
+   */
+}
